@@ -4,22 +4,14 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bk1210.github.io-0f0c29?style=for-the-badge&logoColor=white)](https://bk1210.github.io/portfolio/)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-302b63?style=for-the-badge&logoColor=white)](https://github.com/bk1210/bk1210/raw/main/Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0f0c29?style=for-the-badge&logoColor=white)](https://bk1210.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-302b63?style=for-the-badge&logoColor=white)](https://github.com/bk1210/bk1210/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-kesav-r)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-bk1210-FFD21E?style=for-the-badge)](https://huggingface.co/bk1210)
-[![Gmail](https://img.shields.io/badge/Gmail-bharathkesav1275-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathkesav1275@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/bk1210)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathkesav1275@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhaaaraath/)
 
 </div>
-
-<br>
-
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=bk1210.bk1210&left_color=302b63&right_color=24243e" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Int.+M.Sc.+Data+Science+%40+Amrita+Vishwa+Vidyapeetham;Sports+Analytics+%C3%97+Deep+Learning+%C3%97+Explainable+AI;Graph+Neural+Networks+%7C+NLP+%7C+LLMs+%7C+RAG;3+Live+Apps+%E2%80%A2+9+Public+Repos+%E2%80%A2+Real+Results;I+build+systems+that+predict+AND+explain+%F0%9F%94%8D" alt="Typing SVG" />
