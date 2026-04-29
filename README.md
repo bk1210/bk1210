@@ -216,7 +216,9 @@
 </div>
 
 <br>
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
 <div align="center">
 
 *Open to research collaborations, internships, and exciting projects in AI, sports analytics, and deep learning.*
