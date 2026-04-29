@@ -27,8 +27,7 @@
 
 - 🏛️ **Degree** — Int. M.Sc. Data Science
 - 📍 **Location** — Coimbatore, Tamil Nadu 🇮🇳
-- 🔭 **Focus** — · NLP · Data Analytics · Sports AI · 
-- 🏆 **Finalist** — Pegasus 3.0 IEEE SB @ MITS (Jan 2025)
+- 🔭 **Focus** — NLP · Data Analytics · Sports AI 
 
 </td>
 <td>
