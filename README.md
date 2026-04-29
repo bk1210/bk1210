@@ -27,7 +27,7 @@
 
 - 🏛️ **Degree** — Int. M.Sc. Data Science
 - 📍 **Location** — Coimbatore, Tamil Nadu 🇮🇳
-- 🔭 **Focus** — Graph DL · NLP · IoT · Sports AI · XAI
+- 🔭 **Focus** — Graph DL · NLP · Data Analytics · Sports AI · XAI
 - 🏆 **Finalist** — Pegasus 3.0 IEEE SB @ MITS (Jan 2025)
 
 </td>
