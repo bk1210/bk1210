@@ -19,7 +19,7 @@
 
 ## `$ whoami`
 
-> Int. M.Sc. Data Science student at **Amrita Vishwa Vidyapeetham, Coimbatore** (2022–2027) working at the intersection of **deep learning**, **sports analytics**, and **Data Analytics **. I build systems that don't just predict — they **explain**.
+> Int. M.Sc. Data Science student at **Amrita Vishwa Vidyapeetham, Coimbatore** (2022–2027) working at the intersection of **deep learning**, **sports analytics**, and **data analytics**. I build systems that don't just predict — they **explain**.
 
 <br>
 
