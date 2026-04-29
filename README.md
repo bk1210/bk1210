@@ -203,10 +203,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bk1210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bk1210&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
 </div>
 
