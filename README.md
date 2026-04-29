@@ -202,10 +202,6 @@
   <img src="https://streak-stats.demolab.com?user=bk1210&mode=daily&theme=tokyonight&hide_border=true&background=0d1117&border_radius=5" height="210"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bk1210&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
-</div>
-
 <br>
 
 ---
