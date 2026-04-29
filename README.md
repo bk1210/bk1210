@@ -233,12 +233,10 @@
   <br/>
   <i>Open to research collaborations, internships, and exciting projects in AI, sports analytics, and deep learning.</i>
   <br/><br/>
-  <b><a href="...">🌐 Portfolio</a> · <a href="...">📄 Resume</a> · <a href="...">📬 Email</a></b>
+  <b>**[🌐 Portfolio](https://bk1210.github.io/portfolio/) · [📄 Resume](https://github.com/bk1210/bk1210/raw/main/Resume.pdf) · [📬 bharathkesav1275@gmail.com](mailto:bharathkesav1275@gmail.com)**</b>
 </div>
 
-**[🌐 Portfolio](https://bk1210.github.io/portfolio/) · [📄 Resume](https://github.com/bk1210/bk1210/raw/main/Resume.pdf) · [📬 bharathkesav1275@gmail.com](mailto:bharathkesav1275@gmail.com)**
 
-</div>
 
 <br>
 
