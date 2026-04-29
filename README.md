@@ -182,44 +182,121 @@
 
 ## `$ cat skills.json`
 
-skills = {
-    "Programming Languages": [
-        "Python", "SQL", "LaTeX", "HTML", "CSS"
-    ],
-    "Data Analytics & Visualization": [
-        "Microsoft Excel", "Power BI", "Tableau", "Pandas", "NumPy",
-        "Matplotlib", "Seaborn", "Plotly", "Statistical Analysis",
-        "Hypothesis Testing", "Data Pipeline", "Data Cleaning",
-        "Data Wrangling", "EDA Dashboards", "Data Storytelling", "SHAP Plots"
-    ],
-    "Machine Learning & Data Science": [
-        "scikit-learn", "Feature Engineering", "ELO Ratings", "TimeSeriesSplit",
-        "SMOTE", "LOSO Cross-Validation", "Gradient Boosting", "Random Forest",
-        "Logistic Regression", "SVM"
-    ],
-    "Deep Learning & NLP": [
-        "PyTorch", "TensorFlow", "HuggingFace Transformers", "RoBERTa",
-        "T5", "LSTM", "BiLSTM", "TCN", "GAT", "Multi-task Learning", "Focal Loss"
-    ],
-    "LLMs & Retrieval": [
-        "LLaMA", "RAG", "FAISS", "Sentence-BERT",
-        "llama.cpp", "Groq API", "Prompt Engineering"
-    ],
-    "Explainability (XAI)": [
-        "SHAP (Kernel, Tree, Linear, Permutation)", "LIME", "Attention Visualization"
-    ],
-    "Databases & Backend": [
-        "PostgreSQL", "SQLite", "Django", "REST APIs", "Streamlit"
-    ],
-    "Tools & Platforms": [
-        "Git", "GitHub", "Kaggle (T4/P100 GPU)", "Google Colab",
-        "Jupyter Notebook", "VS Code", "Overleaf"
-    ],
-    "Research Skills": [
-        "IEEE Paper Writing", "Literature Review", "Ablation Studies",
-        "Experimental Design", "Cross-domain Evaluation", "Scopus Citation"
-    ]
-}
+<br>
+
+<details open>
+<summary><b>🧠 Deep Learning & NLP</b></summary>
+<br>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RoBERTa](https://img.shields.io/badge/RoBERTa-blueviolet?style=for-the-badge)
+![T5](https://img.shields.io/badge/T5-8B5CF6?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-BiLSTM-3B82F6?style=for-the-badge)
+![TCN](https://img.shields.io/badge/TCN-06B6D4?style=for-the-badge)
+![GAT](https://img.shields.io/badge/GAT-Graph_Attention-F59E0B?style=for-the-badge)
+![Focal Loss](https://img.shields.io/badge/Focal_Loss-EF4444?style=for-the-badge)
+![Multi-task](https://img.shields.io/badge/Multi--task_Learning-10B981?style=for-the-badge)
+
+</details>
+
+---
+
+<details open>
+<summary><b>💬 LLMs & Retrieval</b></summary>
+<br>
+
+![LLaMA](https://img.shields.io/badge/LLaMA_3.1-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-6366F1?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0EA5E9?style=for-the-badge)
+![Sentence-BERT](https://img.shields.io/badge/Sentence--BERT-8B5CF6?style=for-the-badge)
+![Groq API](https://img.shields.io/badge/Groq_API-F97316?style=for-the-badge)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-gray?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-14B8A6?style=for-the-badge)
+
+</details>
+
+---
+
+<details open>
+<summary><b>🔍 Explainability (XAI)</b></summary>
+<br>
+
+![SHAP](https://img.shields.io/badge/SHAP-Kernel_·_Tree_·_Linear_·_Permutation-7C3AED?style=for-the-badge)
+![LIME](https://img.shields.io/badge/LIME-10B981?style=for-the-badge)
+![Attention Viz](https://img.shields.io/badge/Attention_Visualization-F59E0B?style=for-the-badge)
+
+</details>
+
+---
+
+<details open>
+<summary><b>📊 ML & Data Science</b></summary>
+<br>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-F97316?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-16A34A?style=for-the-badge)
+![SMOTE](https://img.shields.io/badge/SMOTE-0891B2?style=for-the-badge)
+![LOSO CV](https://img.shields.io/badge/LOSO_Cross--Validation-6366F1?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-0284C7?style=for-the-badge)
+![ELO Ratings](https://img.shields.io/badge/ELO_Ratings-DC2626?style=for-the-badge)
+![TimeSeriesSplit](https://img.shields.io/badge/TimeSeriesSplit-0F766E?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-7C3AED?style=for-the-badge)
+
+</details>
+
+---
+
+<details open>
+<summary><b>📈 Data Analytics & Visualization</b></summary>
+<br>
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</details>
+
+---
+
+<details open>
+<summary><b>🗄️ Databases & Backend</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+---
+
+<details open>
+<summary><b>⚙️ Tools & Platforms</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle_GPU-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+
+</details>
 
 <div align="center">
 
