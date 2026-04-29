@@ -13,9 +13,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Int.+M.Sc.+Data+Science+%40+Amrita+Vishwa+Vidyapeetham;Sports+Analytics+%C3%97+Deep+Learning+%C3%97+Explainable+AI;Graph+Neural+Networks+%7C+NLP+%7C+LLMs+%7C+RAG;3+Live+Apps+%E2%80%A2+9+Public+Repos+%E2%80%A2+Real+Results;I+build+systems+that+predict+AND+explain+%F0%9F%94%8D" alt="Typing SVG" />
-</div>
 
 <br>
 
@@ -29,7 +26,7 @@
 
 ## `$ whoami`
 
-> Int. M.Sc. Data Science student at **Amrita Vishwa Vidyapeetham, Coimbatore** (2022–2027) working at the intersection of **deep learning**, **sports analytics**, and **explainable AI**. I build systems that don't just predict — they **explain**.
+> Int. M.Sc. Data Science student at **Amrita Vishwa Vidyapeetham, Coimbatore** (2022–2027) working at the intersection of **deep learning**, **sports analytics**, and **Data Analytics **. I build systems that don't just predict — they **explain**.
 
 <br>
 
@@ -185,22 +182,44 @@
 
 ## `$ cat skills.json`
 
-<br>
-
-<div align="center">
-
-| 🧠 Deep Learning & AI | 💬 NLP & LLMs | 📊 ML & Data Science |
-|:---------------------|:-------------|:--------------------|
-| PyTorch · TensorFlow | HuggingFace · RoBERTa | scikit-learn · SHAP |
-| Graph Neural Networks | T5 · LLaMA 3.1 | Gradient Boosting · RF |
-| LSTM · BiLSTM · TCN | RAG · FAISS | SMOTE · LOSO CV |
-| GAT · Transformers | Sentence-BERT · Groq API | Optuna · TimeSeriesSplit |
-| Reinforcement Learning | spaCy · LIME | ELO Ratings · Feature Eng. |
-| Multi-task · Focal Loss | Prompt Engineering | Power BI · Tableau |
-
-</div>
-
-<br>
+skills = {
+    "Programming Languages": [
+        "Python", "SQL", "LaTeX", "HTML", "CSS"
+    ],
+    "Data Analytics & Visualization": [
+        "Microsoft Excel", "Power BI", "Tableau", "Pandas", "NumPy",
+        "Matplotlib", "Seaborn", "Plotly", "Statistical Analysis",
+        "Hypothesis Testing", "Data Pipeline", "Data Cleaning",
+        "Data Wrangling", "EDA Dashboards", "Data Storytelling", "SHAP Plots"
+    ],
+    "Machine Learning & Data Science": [
+        "scikit-learn", "Feature Engineering", "ELO Ratings", "TimeSeriesSplit",
+        "SMOTE", "LOSO Cross-Validation", "Gradient Boosting", "Random Forest",
+        "Logistic Regression", "SVM"
+    ],
+    "Deep Learning & NLP": [
+        "PyTorch", "TensorFlow", "HuggingFace Transformers", "RoBERTa",
+        "T5", "LSTM", "BiLSTM", "TCN", "GAT", "Multi-task Learning", "Focal Loss"
+    ],
+    "LLMs & Retrieval": [
+        "LLaMA", "RAG", "FAISS", "Sentence-BERT",
+        "llama.cpp", "Groq API", "Prompt Engineering"
+    ],
+    "Explainability (XAI)": [
+        "SHAP (Kernel, Tree, Linear, Permutation)", "LIME", "Attention Visualization"
+    ],
+    "Databases & Backend": [
+        "PostgreSQL", "SQLite", "Django", "REST APIs", "Streamlit"
+    ],
+    "Tools & Platforms": [
+        "Git", "GitHub", "Kaggle (T4/P100 GPU)", "Google Colab",
+        "Jupyter Notebook", "VS Code", "Overleaf"
+    ],
+    "Research Skills": [
+        "IEEE Paper Writing", "Literature Review", "Ablation Studies",
+        "Experimental Design", "Cross-domain Evaluation", "Scopus Citation"
+    ]
+}
 
 <div align="center">
 
