@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0f0c29?style=for-the-badge&logoColor=white)](https://bk1210.github.io/portfolio/)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-302b63?style=for-the-badge&logoColor=white)](https://github.com/bk1210/bk1210/Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-302b63?style=for-the-badge&logoColor=white)](https://github.com/bk1210/bk1210/raw/main/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-kesav-r)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/bk1210)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathkesav1275@gmail.com)
