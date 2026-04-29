@@ -1,174 +1,270 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath%20Kesav%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Deep%20Learning%20Researcher&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bharath%20Kesav%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Sports%20AI%20Builder&descAlignY=60&descSize=17" width="100%"/>
+
+<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bharath-kesav-r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
-  </a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram" />
-  </a>
-  <a href="https://huggingface.co/bk1210" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FFD21E&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="huggingface" />
-  </a>
-  <a href="mailto:bharathkesav1275@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail" />
-  </a>
-  <a href="https://bk1210.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" />
-  </a>
-  <a href="https://github.com/bk1210/bk1210/raw/main/Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume" />
-  </a>
-</div>
 
-###
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bk1210.github.io-0f0c29?style=for-the-badge&logoColor=white)](https://bk1210.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-302b63?style=for-the-badge&logoColor=white)](https://github.com/bk1210/bk1210/raw/main/Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-kesav-r)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-bk1210-FFD21E?style=for-the-badge)](https://huggingface.co/bk1210)
+[![Gmail](https://img.shields.io/badge/Gmail-bharathkesav1275-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathkesav1275@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bk1210.bk1210" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Bharath+%F0%9F%91%8B;Data+Scientist+%7C+AI%2FML+Engineer;Deep+Learning+%26+NLP+Enthusiast;Graph+Neural+Networks+Explorer;Sports+Analytics+%7C+Explainable+AI;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=bk1210.bk1210&left_color=302b63&right_color=24243e" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Int.+M.Sc.+Data+Science+%40+Amrita+Vishwa+Vidyapeetham;Sports+Analytics+%C3%97+Deep+Learning+%C3%97+Explainable+AI;Graph+Neural+Networks+%7C+NLP+%7C+LLMs+%7C+RAG;3+Live+Apps+%E2%80%A2+9+Public+Repos+%E2%80%A2+Real+Results;I+build+systems+that+predict+AND+explain+%F0%9F%94%8D" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="180"/>
 </div>
 
 <br>
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-```python
-bharath = {
-    "name"       : "Bharath Kesav R",
-    "location"   : "Pollachi, Coimbatore, Tamil Nadu 🇮🇳",
-    "degree"     : "Int. M.Sc. Data Science @ Amrita Vishwa Vidyapeetham (2022–2027)",
-    "focus"      : ["Sports Analytics", "Explainable AI", "NLP", "Graph Neural Networks"],
-    "building"   : ["OpponentTwin-OR ⚽", "CricketGraph-DL 🏏"],
-    "deployed"   : "3 live apps + 9 public GitHub repos 🚀",
-    "contact"    : "bharathkesav1275@gmail.com",
-    "fun_fact"   : "I debug CUDA errors faster than I make coffee ☕",
-}
-```
+> Int. M.Sc. Data Science student at **Amrita Vishwa Vidyapeetham, Coimbatore** (2022–2027) working at the intersection of **deep learning**, **sports analytics**, and **explainable AI**. I build systems that don't just predict — they **explain**.
 
-- 🔭 Building **Sports Analytics AI systems** powered by GAT, BiLSTM & Cross-Attention Transformers
-- 🧠 Deep into **Explainable AI** — SHAP (Kernel, Tree, Linear, Permutation), LIME, Attention Viz
-- 🤗 **3 live deployed apps** — Football Predictor, Match Summaries, RAG-based systems
-- 📚 Currently exploring **Graph Transformers & Multimodal Systems**
-- 🏆 **Finalist — Pegasus 3.0 IEEE SB** @ MITS Jan 2025
-- ⚡ Fun fact: I reverse-engineer match tactics for fun and call it "research"
+<br>
+
+<table>
+<tr>
+<td>
+
+- 🏛️ **Degree** — Int. M.Sc. Data Science
+- 📍 **Location** — Coimbatore, Tamil Nadu 🇮🇳
+- 🔭 **Focus** — Graph DL · NLP · IoT · Sports AI · XAI
+- 🏆 **Finalist** — Pegasus 3.0 IEEE SB @ MITS (Jan 2025)
+
+</td>
+<td>
+
+- 🚀 **3 Live Deployed Apps** on HuggingFace Spaces
+- 📦 **9 Public GitHub Repositories**
+- ⚽🏏 **Domains** — Football & Cricket Analytics
+- 💬 **Languages** — Tamil · English · Malayalam
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ---
 
-## 🛠 Tech Stack
+## `$ ls projects/`
 
-#### 🧠 Deep Learning & NLP
-<div align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/RoBERTa-LLaMA-blueviolet?style=for-the-badge" />
+<br>
+
+**`01` · Graph DL · Cricket**
+
+### [🏏 CricketGraph-DL — IPL Match Outcome Prediction](https://github.com/bk1210/CricketGraph-DL-IPL-Match-Outcome-Prediction-Player-Impact-Analysis)
+> Spatio-temporal graph learning for IPL T20 match outcome prediction. GAT player-interaction graph (652 players, 7,334 edges) + BiLSTM + Cross-Attention Transformer. Ball-by-ball win probability across 225,954 deliveries, 950 matches.
+
+`AUC-ROC 0.7378` · `Val Acc 69.33%` · `SHAP-identified top predictors` · `Optuna-tuned`
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyG](https://img.shields.io/badge/PyG-orange?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-purple?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-blue?style=flat-square)
+
+---
+
+**`02` · NLP · Transformers**
+
+### [🎭 Sarcasm Detection via Sentiment Incongruence](https://github.com/bk1210/Detecting-Sarcasm-as-Sentiment-Incongruence)
+> Multi-task RoBERTa with novel Sentiment Incongruence Auto-Labeler. Dataset-agnostic sarcasm labels from semantic mismatch between surface sentiment and underlying emotion. LIME token-level rationale extraction on every prediction.
+
+`F1-Macro 0.977` · `AUC 0.997` · `4,293 test samples` · `LIME explainability`
+
+![RoBERTa](https://img.shields.io/badge/RoBERTa-blueviolet?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Focal Loss](https://img.shields.io/badge/Focal_Loss-red?style=flat-square)
+![LIME](https://img.shields.io/badge/LIME-green?style=flat-square)
+
+---
+
+**`03` · IoT · Football**
+
+### [⚡ FootballRole-DL — Player Role Classification](https://github.com/bk1210/FootballRole-DL)
+> Classifies football players into Attacker / Midfielder / Defender from PAMAP2 IoT wearable sensor data. Activity-to-role mapping pipeline. M3 TCN + Transformer architecture with SHAP explainability.
+
+`Accuracy 99.24%` · `LOSO 98.89% ± 0.42%` · `PAMAP2 dataset`
+
+![TCN](https://img.shields.io/badge/TCN-Transformer-blue?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-purple?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+---
+
+**`04` · IoT · ML**
+
+### [💪 Football Fatigue Prediction — Wearable IoT Sensors](https://github.com/bk1210/Football-Player-Fatigue-Prediction-Wearable-IoT-Sensors-ML)
+> Three-class fatigue prediction (LOW/MEDIUM/HIGH) from 2.87M raw IoT sensor readings across 9 subjects. Novel Karvonen heart rate labeling scheme. 88 statistical features per sliding window. Coach substitution-alert dashboard.
+
+`Accuracy 97.87%` · `F1-Macro 79.93%` · `LOSO 97.96% ± 2.57%` · `Beats PAMAP2 benchmark ~88%`
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-teal?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+**`05` · RAG · LLM** &nbsp; 🚀 [**Live Demo**](https://huggingface.co/spaces/bk1210/Explainable-Match-Summaries)
+
+### [📺 Explainable Match Summaries — RAG + LLaMA 3.1 + SHAP](https://github.com/bk1210/Explainable-Match-Summaries)
+> Factually grounded UEFA Champions League match summaries. Self-curated UCL-2025 dataset (189 matches × 142 cols) from uefa.com. LLaMA 3.1 via Groq API for hallucination-free generation. SHAP identifies goal difference as strongest predictor.
+
+`Cosine Similarity 0.903` vs `0.373 baseline` · `189 UCL matches` · `SHAP mean |SHAP| = 1.000`
+
+![LLaMA](https://img.shields.io/badge/LLaMA_3.1-black?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_API-red?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+**`06` · ML · Sports Analytics** &nbsp; 🚀 [**Live Demo**](https://huggingface.co/spaces/bk1210/Football-Match-Outcome-Prediction)
+
+### [⚽ Football Match Outcome Prediction](https://github.com/bk1210/Football-Match-Outcome-Prediction-)
+> Multi-league prediction across 5 European leagues. 33 features from 25,979 historical matches — ELO ratings, rolling form, betting market probabilities, H2H stats. 3-layer anti-leakage architecture. Predicts outcomes for 259 teams.
+
+`Acc 0.55` · `xPts MAE 0.91` · `+0.073 F1-Macro over ELO baseline` · `5 leagues`
+
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-orange?style=flat-square)
+![ELO](https://img.shields.io/badge/ELO_Ratings-blue?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-purple?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+**`07` · Reinforcement Learning**
+
+### [🥅 Goalkeeper RL — PPO Football Simulation](https://github.com/bk1210/Football-Goalkeeper-Training-Using-Reinforcement-Learning)
+> AI goalkeeper trained via PPO in a 2D Pygame football simulation. Rule-based threat assessment + shot prediction + state machine (IDLE → TRACKING → READY → DIVING → RECOVERING). Improves with every game.
+
+![PPO](https://img.shields.io/badge/PPO-Actor_Critic-blueviolet?style=flat-square)
+![Pygame](https://img.shields.io/badge/Pygame-green?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+---
+
+**`08` · Agentic AI** &nbsp; 🚀 [**Live Demo**](https://huggingface.co/spaces/bk1210/Smart-Resource-Finder)
+
+### [🤖 Smart Resource Finder — Agentic AI Study Assistant](https://github.com/bk1210/Smart-Resource-Finder-Agent)
+> Agentic AI assistant for college students using Observe → Think → Act loop. LLaMA 3.3-70B via Groq API. Finds curated resources and generates personalized exam study plans with live progress tracking.
+
+![LLaMA](https://img.shields.io/badge/LLaMA_3.3_70B-black?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_API-red?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-teal?style=flat-square)
+
+---
+
+**`09` · NLP · Web App**
+
+### [📚 Smart Study Helper](https://github.com/bk1210/Smart-Study-Helper)
+> AI-powered web platform for students with ADHD, dyslexia & learning disabilities. T5 PDF summarization, spaCy quiz generation, TTS, multilingual translation across 7 Indian languages. Full-stack with Django + PostgreSQL.
+
+`IEEE Pegasus 3.0 Finalist ✅`
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![T5](https://img.shields.io/badge/T5-blueviolet?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+<br>
+
+---
+
+## `$ cat skills.json`
+
+<br>
+
+<div align="center">
+
+| 🧠 Deep Learning & AI | 💬 NLP & LLMs | 📊 ML & Data Science |
+|:---------------------|:-------------|:--------------------|
+| PyTorch · TensorFlow | HuggingFace · RoBERTa | scikit-learn · SHAP |
+| Graph Neural Networks | T5 · LLaMA 3.1 | Gradient Boosting · RF |
+| LSTM · BiLSTM · TCN | RAG · FAISS | SMOTE · LOSO CV |
+| GAT · Transformers | Sentence-BERT · Groq API | Optuna · TimeSeriesSplit |
+| Reinforcement Learning | spaCy · LIME | ELO Ratings · Feature Eng. |
+| Multi-task · Focal Loss | Prompt Engineering | Power BI · Tableau |
+
 </div>
 
 <br>
 
-#### 📊 Data Analytics & Visualization
-<div align="left">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<div align="center">
 
-<br>
+**Tools & Platforms**
 
-#### ⚙️ Tools & Environments
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
+
 </div>
 
 <br>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🧩 Project | 📌 Description | 🔧 Stack |
-|:----------|:--------------|:--------|
-| [🏏 CricketGraph-DL](https://github.com/bk1210/CricketGraph-DL) | IPL win probability · GAT + BiLSTM + Cross-Attention · AUC **0.7378** · 225K+ deliveries | PyG · SHAP · Optuna |
-| [🎭 Sarcasm as Sentiment Incongruence](https://github.com/bk1210/Detecting-Sarcasm-as-Sentiment-Incongruence) | Implicit sarcasm via auto-labeling · F1 **0.977** · AUC **0.997** | RoBERTa · Focal Loss · LIME |
-| [📺 Explainable Match Summaries](https://github.com/bk1210/Explainable-Match-Summaries) | RAG + LLaMA 3.1 + SHAP · cosine sim **0.903** · Live Demo ✅ | FAISS · Groq API · Streamlit |
-| [⚽ Football Match Predictor](https://github.com/bk1210/Football-Match-Outcome-Prediction-) | 5-league predictions · 25,979 matches · 33 features · Live Demo ✅ | GBM · ELO · SQLite |
-| [💪 Football Fatigue Prediction](https://github.com/bk1210) | 2.87M IoT sensor readings · 97.87% accuracy · LOSO validated | RF · TensorFlow · imbalanced-learn |
-| [📚 Smart Study Helper](https://github.com/bk1210/Smart-Study-Helper) | AI platform for ADHD/dyslexia · 7 Indian languages | T5 · spaCy · TTS |
-
-</div>
+## `$ github --stats`
 
 <br>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bk1210&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bk1210&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bk1210&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155"/>
 </div>
 
-<br>
-
----
-
-## 🔥 My Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bk1210&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bk1210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages" />
+  <img src="https://streak-stats.demolab.com?user=bk1210&mode=daily&theme=tokyonight&hide_border=true&background=0d1117&border_radius=5" height="210"/>
 </div>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bk1210&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bk1210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
-<br>
-
----
-
-## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bk1210&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bk1210&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
 </div>
 
 <br>
@@ -176,17 +272,21 @@ bharath = {
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+
+*Open to research collaborations, internships, and exciting projects in AI, sports analytics, and deep learning.*
+
+**[🌐 Portfolio](https://bk1210.github.io/portfolio/) · [📄 Resume](https://github.com/bk1210/bk1210/raw/main/Resume.pdf) · [📬 bharathkesav1275@gmail.com](mailto:bharathkesav1275@gmail.com)**
+
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/bk1210/bk1210/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bk1210/bk1210/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
