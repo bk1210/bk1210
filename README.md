@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bharath%20Kesav%20RfontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bharath%20Kesav%20R&fontColor=ffffff"/>
 
 <br>
 
