@@ -239,11 +239,6 @@
 </div>
 
 <br>
-
-<img src="https://raw.githubusercontent.com/bk1210/bk1210/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
 <img src="https://raw.githubusercontent.com/bk1210/bk1210/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
