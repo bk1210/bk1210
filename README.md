@@ -217,10 +217,22 @@
   <img src="https://img.shields.io/badge/⚽%20CR7%20Quote%20of%20the%20Day-0d1117?style=for-the-badge&logoColor=white"/>
   <br/><br/>
   <i>"Your love makes me strong, your hate makes me unstoppable."</i>
-  <b>— Cristiano Ronaldo</b>
+    <br/><br/>
+
+  <b>—Cristiano Ronaldo</b>
   <br/>
 </div>
 <!-- RONALDO_QUOTE_END -->
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>
+</div>
+
+<br>
 
 *Open to research collaborations, internships, and exciting projects in AI, sports analytics, and deep learning.*
 
