@@ -218,8 +218,6 @@
   <br/><br/>
   <i>"Your love makes me strong, your hate makes me unstoppable."</i>
     <br/><br/>
-
-<div align="left"><b>&nbsp;&nbsp;&nbsp;&nbsp;— Cristiano Ronaldo</b></div>
   <br/>
 </div>
 <!-- RONALDO_QUOTE_END -->
