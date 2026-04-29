@@ -229,16 +229,20 @@
 ---
 
 <div align="center">
-  <img src="...football gif..."/>
-  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>
+  <br/><br/>
   <i>Open to research collaborations, internships, and exciting projects in AI, sports analytics, and deep learning.</i>
   <br/><br/>
-  <b>**[🌐 Portfolio](https://bk1210.github.io/portfolio/) · [📄 Resume](https://github.com/bk1210/bk1210/raw/main/Resume.pdf) · [📬 bharathkesav1275@gmail.com](mailto:bharathkesav1275@gmail.com)**</b>
+  <a href="https://bk1210.github.io/portfolio/">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/bk1210/bk1210/raw/main/Resume.pdf">📄 Resume</a> &nbsp;·&nbsp;
+  <a href="mailto:bharathkesav1275@gmail.com">📬 bharathkesav1275@gmail.com</a>
 </div>
 
-
-
 <br>
+
+<img src="https://raw.githubusercontent.com/bk1210/bk1210/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/bk1210/bk1210/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
