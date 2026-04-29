@@ -34,7 +34,6 @@
 
 - 🚀 **3 Live Deployed Apps** on HuggingFace Spaces
 - 📦 **9 Public GitHub Repositories**
-- ⚽🏏 **Domains** — Football & Cricket Analytics
 - 💬 **Languages** — Tamil · English · Malayalam
 
 </td>
