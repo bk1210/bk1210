@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bharath%20Kesav%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Sports%20AI%20Builder&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bharath%20Kesav%20R"/>
 
 <br>
 
@@ -13,13 +13,6 @@
 
 </div>
 
-
-<br>
-
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0NTIxMDYsIm5iZiI6MTc3NzQ1MTgwNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI5VDA4MzY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlNzg0NzdkOTgxM2UwZjM1M2FjY2VjZDJjZGZlOWQ4ZjUyMmI1ZTgwYjdjZDBlYjlmMTM2ZmIzYWRjNmYyMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.r78fv4HDwAcjF4TqAFS-qnm6Z1SGoLq0eEjMgfKSr_Y"/>
-</div>
-
 <br>
 
 ---
@@ -29,6 +22,13 @@
 > Int. M.Sc. Data Science student at **Amrita Vishwa Vidyapeetham, Coimbatore** (2022–2027) working at the intersection of **deep learning**, **sports analytics**, and **Data Analytics **. I build systems that don't just predict — they **explain**.
 
 <br>
+
+
+<br>
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0NTIxMDYsIm5iZiI6MTc3NzQ1MTgwNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI5VDA4MzY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlNzg0NzdkOTgxM2UwZjM1M2FjY2VjZDJjZGZlOWQ4ZjUyMmI1ZTgwYjdjZDBlYjlmMTM2ZmIzYWRjNmYyMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.r78fv4HDwAcjF4TqAFS-qnm6Z1SGoLq0eEjMgfKSr_Y"/>
+</div>
 
 <table>
 <tr>
