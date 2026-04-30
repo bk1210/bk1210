@@ -216,8 +216,9 @@
   <br/>
   <img src="https://img.shields.io/badge/⚽%20CR7%20Quote%20of%20the%20Day-0d1117?style=for-the-badge&logoColor=white"/>
   <br/><br/>
-  <i>"Your love makes me strong, your hate makes me unstoppable."</i>
-    <br/><br/>
+  <i>"Without sacrifice, there is no victory."</i>
+  <br/><br/>
+  <b>— Cristiano Ronaldo</b>
   <br/>
 </div>
 <!-- RONALDO_QUOTE_END -->
