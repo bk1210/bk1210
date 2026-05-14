@@ -194,10 +194,7 @@
   <img src="https://streak-stats.demolab.com?user=bk1210&mode=daily&theme=tokyonight&hide_border=true&background=0d1117&border_radius=5" height="210"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bk1210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bk1210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
-</div>
+
 
 <br>
 
