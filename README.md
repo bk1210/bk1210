@@ -165,14 +165,6 @@
 ### [📚 Smart Study Helper](https://github.com/bk1210/Smart-Study-Helper)
 > AI-powered web platform for students with ADHD, dyslexia & learning disabilities. T5 PDF summarization, spaCy quiz generation, TTS, multilingual translation across 7 Indian languages. Full-stack with Django + PostgreSQL.
 
-`IEEE Pegasus 3.0 Finalist ✅`
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![T5](https://img.shields.io/badge/T5-blueviolet?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-<br>
 
 ---
 
