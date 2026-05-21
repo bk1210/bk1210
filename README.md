@@ -205,7 +205,7 @@
   <br/>
   <img src="https://img.shields.io/badge/⚽%20CR7%20Quote%20of%20the%20Day-0d1117?style=for-the-badge&logoColor=white"/>
   <br/><br/>
-  <i>"I have had to make many sacrifices in my life to get where I am today."</i>
+  <i>"Dreams are not what you see in sleep, dreams are things which do not let you sleep."</i>
   <br/><br/>
   <b>— Cristiano Ronaldo</b>
   <br/>
