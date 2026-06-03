@@ -205,7 +205,7 @@
   <br/>
   <img src="https://img.shields.io/badge/⚽%20CR7%20Quote%20of%20the%20Day-0d1117?style=for-the-badge&logoColor=white"/>
   <br/><br/>
-  <i>"I am not a perfectionist, but I like to feel that things are done well."</i>
+  <i>"Hard work beats talent when talent doesn't work hard."</i>
   <br/><br/>
   <b>— Cristiano Ronaldo</b>
   <br/>
