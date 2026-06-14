@@ -205,7 +205,7 @@
   <br/>
   <img src="https://img.shields.io/badge/⚽%20CR7%20Quote%20of%20the%20Day-0d1117?style=for-the-badge&logoColor=white"/>
   <br/><br/>
-  <i>"Talent without working hard is nothing."</i>
+  <i>"I don't have to show anything to anyone. There is nothing to prove."</i>
   <br/><br/>
   <b>— Cristiano Ronaldo</b>
   <br/>
