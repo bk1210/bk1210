@@ -27,7 +27,7 @@
 
 - 🏛️ **Degree** — Int. M.Sc. Data Science
 - 📍 **Location** — Coimbatore, Tamil Nadu 🇮🇳
-- 🔭 **Focus** — NLP · Data Analytics · Sports AI 
+- 🔭 **Focus** — Data Scinece · Data Analytics · AI/ML
 
 </td>
 <td>
