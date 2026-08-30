@@ -218,7 +218,7 @@
   <br/>
   <img src="https://img.shields.io/badge/⚽%20CR7%20Quote%20of%20the%20Day-0d1117?style=for-the-badge&logoColor=white"/>
   <br/><br/>
-  <i>"Success is not an accident. It is hard work, perseverance, learning, studying, sacrifice."</i>
+  <i>"It is not about the name on the back, it is about the badge on the front."</i>
   <br/><br/>
   <b>— Cristiano Ronaldo</b>
   <br/>
