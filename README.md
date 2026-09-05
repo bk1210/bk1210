@@ -218,7 +218,7 @@
   <br/>
   <img src="https://img.shields.io/badge/⚽%20CR7%20Quote%20of%20the%20Day-0d1117?style=for-the-badge&logoColor=white"/>
   <br/><br/>
-  <i>"I have had to make many sacrifices in my life to get where I am today."</i>
+  <i>"I see myself as the best footballer in the world. If you don't believe you are the best, you will never achieve all that you are capable of."</i>
   <br/><br/>
   <b>— Cristiano Ronaldo</b>
   <br/>
